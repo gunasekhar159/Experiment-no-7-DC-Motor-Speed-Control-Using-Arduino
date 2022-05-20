@@ -62,7 +62,7 @@ void loop()
 ```
 
 ### OUTPUT
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/main/m.png?raw=true)
 
 ### RESULTS AND DISCUSSION 
 
