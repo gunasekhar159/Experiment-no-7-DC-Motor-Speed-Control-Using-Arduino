@@ -65,4 +65,5 @@ void loop()
 ![output](https://github.com/gunasekhar159/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/main/m.png?raw=true)
 
 ### RESULTS AND DISCUSSION 
+Thus to control the speed of DC motor using l293D board is completed successfully using Tinkercad software.
 
